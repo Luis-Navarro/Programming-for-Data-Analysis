@@ -5,11 +5,13 @@ This project aims to investigate and illustrate some of the main characteristics
 All code has been inserted in a Jupyter Notebook.
 
 ## Usage
-To run this code, please use the Jupyter Notebook file under the name random.ipynb. Jupyter Notebook can be initiate through Anaconda Navigator and it will use your browser.
+To run this code, please use the Jupyter Notebook file under the name random.ipynb. 
 
-All code included in this project is using Python 3.6.4. Additional packages needed to run this code are NumPy, matplotlib and Pandas.
+Jupyter Notebook can be initiated through Anaconda Navigator and it will use your browser to deploy both texts an code, as it includes an interpreter.
 
-All this packages can be downloaded and installed as per instructions available in their documentation. However, dowloading an installing [Anaconda](https://www.anaconda.com/download/) will ensure full compatibility for Linux, Mac and Windows systems. 
+All code included in this project is Python 3.6.4. Additional packages needed to run this code are NumPy, matplotlib and Pandas.
+
+All this packages can be individually downloaded and installed as per instructions available in their documentation. However, dowloading an installing [Anaconda](https://www.anaconda.com/download/) will ensure full compatibility for Linux, Mac and Windows systems. 
 
 ## Resources used
 Along this project, several sources of information have been used. Although specific references are included as links in the notebook, the main reference sources have been:
