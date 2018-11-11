@@ -20,3 +20,6 @@ Along this project, several sources of information have been used. Although spec
 - [MatPlotLib documenttion](https://matplotlib.org/)
 - [Stats Trek](https://www.stattrek.com/)
 - [Pybonacci Blog (in Spanish)](https://www.pybonacci.org/)
+
+## License
+This project is under GNU General Public License v3.0
